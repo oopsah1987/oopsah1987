@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "hicp",
+                "projectName": "hicp",
+                "workingDirectory": "d:\\projects\\sources\\spring\\hicp1\\hicp",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "hicp",
+                "projectName": "hicp",
+                "workingDirectory": "d:\\projects\\sources\\spring\\hicp1\\hicp",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

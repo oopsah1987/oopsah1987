@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "test.Test",
+            "args": "",
+            "projectName": "hicp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application_test",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.haniln.hicp.Application_test",
+            "args": "",
+            "projectName": "hicp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.haniln.hicp.Application",
+            "args": "",
+            "projectName": "hicp"
+        },
+        {
+            "type": "java",
+            "name": "hicp",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.haniln.hicp.DemoApplication",
+            "args": "",
+            "projectName": "hicp"
+        }
+    ]
+}
